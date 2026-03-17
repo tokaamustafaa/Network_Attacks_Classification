@@ -39,3 +39,4 @@ The goal of this project is to build an effective intrusion detection model capa
 - Pandas & NumPy
 - Scikit-learn
 - Matplotlib & Seaborn
+- pca
