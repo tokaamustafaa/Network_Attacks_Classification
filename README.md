@@ -29,7 +29,7 @@ Extensive preprocessing was applied to prepare the data for modeling, including:
 A Random Forest classifier was trained to detect and classify network attacks.
 
 ## Results
-The model was evaluated on a test set of approximately 250,000 samples and achieved strong performance in predicting attack types.
+The model was evaluated on a test set of approximately 300,000 samples and achieved strong performance in predicting attack types.
 
 ## Goal
 The goal of this project is to build an effective intrusion detection model capable of identifying malicious network traffic in IoT systems.
